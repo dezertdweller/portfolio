@@ -5,9 +5,13 @@ Data-driven professional with six years of experience analyzing complex datasets
 
 ### Skills
 **Data Processing, Analysis and Visualization:** Microsoft Excel, pandas, SciPy, statsmodels, Tableau, Power BI, Streamlit, Matplotlib, Seaborn, Plotly, Jupyter Notebooks
+
 **Programming & Databases:** IDEs (VS Code, Atom), Python, SQL, MySQL, PostgreSQL
+
 **Machine Learning Frameworks:** Scikit-Learn, NLTK
+
 **Version Control & Environment Management:** Git, GitHub, Anaconda, venv
+
 **Other:** Asana, Smartsheet, Jira, M365, SharePoint, Miro, Mural
 
 ### Education

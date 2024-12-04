@@ -1,22 +1,15 @@
 # Data Scientist
 
 ## About Me
-Data-driven professional with six years of experience analyzing complex datasets and generating actionable business insights to help teams innovate, deliver results, and maximize their potential. Designed and implemented data products to support internal needs for programmatic, operations and finance teams. Adept at leading and collaborating with cross-functional teams, including operations, finance, and technology, to deliver strategic recommendations. Skilled presenter with experience communicating technical requirements to non-technical audiences.
+I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Learning. My expertise spans cleaning and analyzing large datasets, performing exploratory data analysis (EDA), and building machine learning models for predictive analytics, classification problems, and natural language processing. 
 
-### Skills
-**Data Processing, Analysis and Visualization:** Microsoft Excel, pandas, SciPy, statsmodels, Tableau, Power BI, Streamlit, Matplotlib, Seaborn, Plotly, Jupyter Notebooks
-
-**Programming & Databases:** IDEs (VS Code, Atom), Python, SQL, MySQL, PostgreSQL
-
-**Machine Learning Frameworks:** Scikit-Learn, NLTK
-
-**Version Control & Environment Management:** Git, GitHub, Anaconda, venv
-
-**Other:** Asana, Smartsheet, Jira, M365, SharePoint, Miro, Mural
-
-### Education
-B.S. Public Health, UC San Diego (2014-2017)
-Data Science Certificate, Springboard (2024)
+### Technical Skills
+- **Data Processing & Analysis**: Microsoft Excel, pandas, SciPy, statsmodels, Jupyter Notebooks  
+- **Data Visualization**: Tableau, Power BI, Streamlit, Matplotlib, Seaborn, Plotly  
+- **Programming & Databases**: IDEs (VS Code, Atom), Python, SQL, MySQL, SQLite, PostgreSQL, MySQL Workbench, pgAdmin  
+- **Machine Learning Frameworks**: Scikit-Learn, Imbalanced-Learn, NLTK  
+- **Version Control & Environment Management**: Git, GitHub, Anaconda, venv  
+- **Other**: Asana, Smartsheet, Jira, Confluence, M365, SharePoint, Google Suite, Miro, Mural, Agile  
 
 ### Projects
 **Predict Flight Cancellations**
@@ -28,12 +21,18 @@ Cleaned and analyzed UK banking customer dataset to design a Tableau dashboard t
 **Brew Master Sales**
 Developed a PostgreSQL database for synthetic company data. Automated data ingestion workflows and wrote SQL queries to generate Tableau executive reports.
 
-**Grants Performance Dashboard** 
-Designed and implemented a dashboard to track $40M in program funding, streamlining operations and enhancing fiscal compliance. The solution reduced reporting time from 5 hours per week to 10 minutes, saving approximately 251 hours per team member annually while improving reporting accuracy and efficiency.
+### Experience
 
-### Work Experience
+**Data Scientist Fellow**
+*Springboard* | *Remote* | Feb 2024 – Nov 2024
+-	Developed end-to-end ETL pipelines to clean, validate, and prepare data for analysis, working with datasets sourced from APIs, web scraping, and structured file formats like PDF, CSV and JSON.
+-	Constructed complex SQL queries to extract and transform actionable insights from relational databases, optimizing data processing workflows.
+-	Built machine learning models (e.g., random forest, logistic regression) in Python to solve predictive analytics problems, improving model accuracy through feature engineering and hyperparameter tuning.
+-	Optimized a Python script for calculating historical performance metrics, reducing runtime from 4 days to 20 minutes by implementing a window function for efficient row-wise calculations.
+-	Applied statistical methods (e.g., hypothesis testing, A/B testing) to validate insight, improve feature engineering, and support decision-making in project contexts.
+
 **Data Consultant**  
-*Self-Employed, KLG Consulting* | *Seattle, WA* | Mar 2021 - Present  
+*Self-Employed, KLG Consulting* | *Seattle, WA* | Mar 2021 - Dec 2024  
 - Conducted data wrangling, analysis, and visualization using Python and Excel for 20+ large U.S. Census datasets to provide strategic business insights and actionable data summaries.  
 - Validated data quality and resolved discrepancies across disparate data sources prior to developing reporting tools in Excel and data visualization tools.  
 
@@ -47,6 +46,9 @@ Designed and implemented a dashboard to track $40M in program funding, streamlin
 **Chief of Staff**  
 *Adelante Healthcare* | *Phoenix, AZ* | Jun 2018 – Nov 2020
 - Championed the implementation of Objectives and Key Results (OKR) and Key Performance Indicators (KPI) by leading 6 executives and 10 directors through a strategic planning session to increase alignment on mission, goals, and projects.  
-- Spearheaded the digital transformation of board member communication and collaboration systems, increasing satisfaction and achieving a 100% adoption rate.  
+- Spearheaded the digital transformation of board member communication and collaboration systems, increasing satisfaction and achieving a 100% adoption rate.
+
+### Education
+B.S. Public Health, UC San Diego (2014-2017)
 
 ### Hobbies

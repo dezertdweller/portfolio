@@ -81,3 +81,24 @@ B.S. Public Health, UC San Diego (2014-2017)
 🎶 Making playlists\
 ⛰️ Trail running, backpacking, mountaineering\
 🪴 Gardening
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

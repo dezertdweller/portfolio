@@ -59,23 +59,23 @@ I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Lea
 
 ## Experience
 
-**Data Scientist Fellow**
+**Data Scientist Fellow**\
 *Springboard* | *Remote* | Feb 2024 – Nov 2024
 
-**Data Consultant**  
+**Data Consultant**\
 *Self-Employed, KLG Consulting* | *Seattle, WA* | Mar 2021 - Dec 2024  
 
-**Sr. Program Manager**  
+**Sr. Program Manager**\  
 *Hennepin Healthcare* | *Minneapolis, MN* | Dec 2020 – Jun 2024
 
-**Chief of Staff**  
+**Chief of Staff**\  
 *Adelante Healthcare* | *Phoenix, AZ* | Jun 2018 – Nov 2020
 
 ## Education
 B.S. Public Health, UC San Diego (2014-2017)
 
 ## Hobbies
-📷 Adventure & landscape photography
-🎶 Making playlists
-⛰️ Trail running, backpacking, mountaineering
+📷 Adventure & landscape photography\
+🎶 Making playlists\
+⛰️ Trail running, backpacking, mountaineering\
 🪴 Gardening

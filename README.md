@@ -64,6 +64,9 @@ I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Lea
 **Sr. Program Manager**\
 *Hennepin Healthcare* | *Minneapolis, MN* | Dec 2020 – Jun 2024
 
+**Grant Operations Manager**\
+*Adelante Healthcare* | *Phoenix, AZ* | Apr 2020 – Nov 2020
+
 **Chief of Staff**\
 *Adelante Healthcare* | *Phoenix, AZ* | Jun 2018 – Nov 2020
 
@@ -71,7 +74,7 @@ I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Lea
 B.S. Public Health, UC San Diego (2014-2017)
 
 ## Hobbies
-📷 Adventure & landscape photography\
+📷 Adventure & landscape [photography](https://www.instagram.com/katialopesgilbert/)\
 🎶 Making playlists\
 ⛰️ Trail running, backpacking, mountaineering\
 🪴 Gardening

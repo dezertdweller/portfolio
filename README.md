@@ -4,12 +4,12 @@
 I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Learning. My expertise spans cleaning and analyzing large datasets, performing exploratory data analysis (EDA), and building machine learning models for predictive analytics, classification problems, and natural language processing. 
 
 ### Technical Skills
-- **Data Processing & Analysis**: Microsoft Excel, pandas, SciPy, statsmodels, Jupyter Notebooks  
-- **Data Visualization**: Tableau, Power BI, Streamlit, Matplotlib, Seaborn, Plotly  
-- **Programming & Databases**: IDEs (VS Code, Atom), Python, SQL, MySQL, SQLite, Postgres, MySQL Workbench, pgAdmin  
-- **Machine Learning Frameworks**: Scikit-Learn, Imbalanced-Learn, NLTK  
-- **Version Control & Environment Management**: Git, GitHub, Anaconda, venv  
-- **Other**: Asana, Smartsheet, Jira, Confluence, M365, SharePoint, Google Suite, Miro, Mural, Agile  
+**Data Processing & Analysis**: Microsoft Excel, pandas, SciPy, statsmodels, Jupyter Notebooks  
+**Data Visualization**: Tableau, Power BI, Streamlit, Matplotlib, Seaborn, Plotly  
+**Programming & Databases**: IDEs (VS Code, Atom), Python, SQL, MySQL, SQLite, Postgres, MySQL Workbench, pgAdmin  
+**Machine Learning Frameworks**: Scikit-Learn, Imbalanced-Learn, NLTK  
+**Version Control & Environment Management**: Git, GitHub, Anaconda, venv  
+**Other**: Asana, Smartsheet, Jira, Confluence, M365, SharePoint, Google Suite, Miro, Mural, Agile  
 
 ### Projects
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -35,7 +35,7 @@ I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Lea
   <!-- Project 3 -->
   <div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
     <a href="https://github.com/dezertdweller/brew_master" target="_blank">
-      <img src="https://github.com/dezertdweller/portfolio/blob/main/assets/photos/brew-master.jpg" alt="Brew Master Sales" style="width: 100%; border-radius: 10px;">
+      <img src="https://github.com/dezertdweller/portfolio/blob/main/assets/photos/brew-master.png" alt="Brew Master Sales" style="width: 100%; border-radius: 10px;">
       <h3>Brew Master Sales</h3>
     </a>
     <p>Developed a PostgreSQL database for synthetic company data. Automated data ingestion workflows and wrote SQL queries to generate Tableau executive reports.</p>

@@ -70,6 +70,9 @@ I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Lea
 **Chief of Staff**\
 *Adelante Healthcare* | *Phoenix, AZ* | Jun 2018 – Nov 2020
 
+[*Link to my Resume*](https://github.com/dezertdweller/portfolio/blob/main/assets/resume/Katia-Lopes-Gilbert-Resume-2024.pdf)
+Last Updated: 12.20.24
+
 ## Education
 B.S. Public Health, UC San Diego (2014-2017)
 

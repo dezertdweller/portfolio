@@ -8,7 +8,7 @@ This repository provides a customizable template for creating a personal portfol
 - `config.yml`: Configuration file for setting up the appropriate theme and layout.
 - `/assets`: A folder containing images and CSS files for the portfolio site.
 
-## How to Use This Template
+## How to Use This Template 
 
 ### Step 1: Clone the Repository
 ```bash

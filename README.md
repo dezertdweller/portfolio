@@ -9,7 +9,7 @@ I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Lea
 **Programming & Databases**: IDEs (VS Code, Atom), Python, SQL, MySQL, SQLite, Postgres, MySQL Workbench, pgAdmin\
 **Machine Learning Frameworks**: Scikit-Learn, Imbalanced-Learn, NLTK\
 **Version Control & Environment Management**: Git, GitHub, Anaconda, venv\
-**Other**: Asana, Smartsheet, Jira, Confluence, M365, SharePoint, Google Suite, Miro, Mural, Agile\
+**Other**: Asana, Smartsheet, Jira, Confluence, M365, SharePoint, Google Suite, Miro, Mural, Agile
 
 ## Projects
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">

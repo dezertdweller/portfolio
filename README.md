@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 
 ## About Me
 I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Learning. My expertise spans cleaning and analyzing large datasets, performing exploratory data analysis (EDA), and building machine learning models for predictive analytics, classification problems, and natural language processing. 

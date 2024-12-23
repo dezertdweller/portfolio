@@ -80,23 +80,4 @@ B.S. Public Health, UC San Diego (2014-2017)
 📷 Adventure & landscape [photography](https://www.instagram.com/katialopesgilbert/)\
 🎶 Making playlists\
 ⛰️ Trail running, backpacking, mountaineering\
-🪴 Gardening 
-
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-# end
+🪴 Gardening

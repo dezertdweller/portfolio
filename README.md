@@ -74,7 +74,7 @@ I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Lea
 Last Updated: 12.20.24
 
 ## Education
-[B.S. Public Health, UC San Diego (2014-2017)](https://drive.google.com/file/d/12lnBhAHTdGFg4AFtqbGz5VFvk9Frn6jB/view?usp=share_link)
+[B.S. Public Health, UC San Diego (2014-2017)](https://drive.google.com/file/d/12lnBhAHTdGFg4AFtqbGz5VFvk9Frn6jB/view?usp=share_link)\
 [Data Science Certification, Sprinboard (2024)](https://drive.google.com/file/d/1K3_5YjS9NDydHdQpt0W9xqIZB32YMnM0/view?usp=share_link)
 
 ### References

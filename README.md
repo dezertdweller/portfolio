@@ -59,7 +59,7 @@ I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Lea
 *Self-Employed, KLG Consulting* | *Seattle, WA* | Mar 2021 - Current
 
 **Data Scientist Fellow**\
-*Springboard* | *Remote* | Feb 2024 – Nov 2024
+*Springboard* | *Remote* | Feb 2024 – Dec 2024
 
 **Sr. Program Manager**\
 *Hennepin Healthcare* | *Minneapolis, MN* | Dec 2020 – Jun 2024
@@ -79,6 +79,8 @@ Last Updated: 12.20.24
 
 ### References
 ✉️ Judy Fox, Manager at Hennepin Healthcare - [Letter of Reference](https://drive.google.com/file/d/1Cal4rKSs5edf5VaE2eIO3n5FnN6ds39f/view?usp=share_link)\
+✉️ Jesse Garcia, Manager at Adelante Healthcare - [Letter of Reference](https://drive.google.com/file/d/1IN3niVYTuMjPTJij8dcOR-KIlTLrQjl2/view?usp=share_link)
+✉️ Marissa Lyons, Client through KLG Consulting - [Letter of Reference](https://drive.google.com/file/d/1brknx-JtOv4bcCFreu1EzdpK8ZzfGwZ7/view?usp=share_link)
 🌐 Jyant Mahara, Mentor at Springboard - [LinkedIn Recommendation](https://www.linkedin.com/in/katialg/details/recommendations/)
 
 ## Hobbies

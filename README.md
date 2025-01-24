@@ -50,6 +50,15 @@ I am a Data Analyst skilled with Python, SQL, Data Visualization and Machine Lea
   <p>Leverages machine learning to predict the funding a health organization might receive through the Health Center Program, based on operational and demographic factors such as patient totals, uninsured ratios, and community characteristics. Using a Random Forest Regressor, the model achieved an R² score of 0.648, offering valuable insights to help health organizations assess the feasibility of pursuing federally-qualified health center status.</p>
   </div>
 
+<!-- Project 5 -->
+<div style="flex: 1 1 300px; max-width: 300px; text-align: center;">
+  <a href="https://drive.google.com/file/d/1uHQ5Cpo_0sktjJP1cvFGXHcr9172Z7Mx/view?usp=share_link" target="_blank">
+    <img src="https://raw.githubusercontent.com/dezertdweller/portfolio/main/assets/photos/asana-case-study.jpg" alt="Predict Health Center Funding" style="width: 100%; border-radius: 10px;">
+    <h3>Grants Data Transformation</h3>
+  </a>
+  <p>Led the design and implementation of a digital transformation project to optimize grant management workflows for the Hennepin Healthcare Foundation, responsible for managing a $40M grant portfolio. Replaced outdated, manual processes with a centralized, automated solution using Asana, Excel Power Query, and Power BI, drastically improving efficiency and collaboration.</p>
+  </div>
+
 
 </div>
 
